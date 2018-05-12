@@ -1,0 +1,28 @@
+_repo: Le-chasseur-d-ours_17240
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buet, Charles
+    birthdate: 1846
+    deathdate: 1897
+    gutenberg_agent_id: '7244'
+    url: http://www.gutenberg.org/2009/agents/7244
+    wikipedia: http://fr.wikipedia.org/wiki/Charles_Buet
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2005-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17240'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting stories'
+- !lcc 'PZ'
+title: Le chasseur d'ours
+url: http://www.gutenberg.org/ebooks/17240
